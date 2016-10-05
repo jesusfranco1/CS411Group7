@@ -18,6 +18,7 @@
 #### 1: Lai Wei
 
 #### 2: Jesus
+Store name card info is a function in which mobile phone camera scans a business card and saves its contents such as: the business name, person’s name, address, and contact information into the local database. The Actor would place the name card in front of the camera (with the card holders information facing up) and the device will detect the information and store it automatically. If the card is unreadable, or some information is missing, the user will be asked to type it in. This function is useful for busy people who often misplace business cards by accident, or who forget about important events or connections with a person.
 
 #### 3: Satoe
 Send notification is a function to remind users to reach out their contacts on set time, birthday, or a few days after a meeting. This is built in to take the hassle away from the user to remember to write thank you cards or birthday cards to their professional contacts that they would like to maintain in their network. We are thinking about providing templates for users to choose from, so that we can maximize convenience for our users. By keeping track of the last time of communication, we will provide users with the option of how frequently they would like to reach out. This way, we can remind our users to reach out in a timely fashion that keeps a tight network with maximum efficiency.
